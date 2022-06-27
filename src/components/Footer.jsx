@@ -32,8 +32,12 @@ const Footer = () => {
       <CopyRight>{"Nowacka&Piech"} &copy; 2022</CopyRight>
       <CopyRight>
         Site by{" "}
-        <a href="https://bags360.netlify.app/" target="_blank" rel="noreferrer">
-          Bartosz Nowacki
+        <a
+          href="https://barteknowacki.netlify.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          b.n
         </a>
       </CopyRight>
     </Container>
