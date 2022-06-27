@@ -1,0 +1,10 @@
+* {
+  font-family: "Oswald", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+:root {
+  --color-primary: #32a0cf;
+  /* --color-primary: #333; */
+}
